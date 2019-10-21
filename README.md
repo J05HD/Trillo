@@ -1,6 +1,6 @@
 # Trillo
 
-One page website for a made up hotel rental company.
+One page website mock-up for a hotel rental company.
 
 #### Technologies
 
